@@ -36,4 +36,8 @@
 
 - Firebase
 
+## Support
+
+- If you have any issues, feel free to hit us up at [nishchayverma20@gmail.com](mailto:dscbvppune@gmail.com).
+- You can also put up queries on GitHub issues [here](https://github.com/Nishchayverma/Coffeed/issues).
 
