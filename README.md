@@ -1,4 +1,4 @@
-<h1 align="center"><span><h3>DSC Web-App</h3></span>
+<h1 align="center"><span><h3>Coffeed</h3></span>
 
 ## Overview
  
@@ -25,4 +25,15 @@
 8. Build the application in the IDE which you use for Flutter development.
 9. or run `flutter run --release` on your console to build the app.
 12.  Build the apk and share to your customers using : Run `flutter build apk --release` (for Android users).
+
+## Technology Stacks
+
+#### Frontend Stacks
+
+- Flutter
+
+#### Backend Stacks
+
+- Firebase
+
 
