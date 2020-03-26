@@ -1,6 +1,6 @@
 <h1 align="center"><span><h3>Coffeed</h3></span>
  
- ![Screenshot of App](https://github.com/Nishchayverma/Coffeed/blob/master/Coffeed.jpg =x300)
+ <<img src="images/Coffeed.jpg" width="32%" alt="Mobile App"/>
 
 ## Overview
  
