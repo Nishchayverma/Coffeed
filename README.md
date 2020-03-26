@@ -1,6 +1,6 @@
 <h1 align="center"><span><h3>Coffeed</h3></span>
  
- <<img src="images/Coffeed.jpg" width="32%" alt="Mobile App"/>
+ <img src="https://github.com/Nishchayverma/Coffeed/blob/master/Coffeed.jpg" width="32%" alt="Mobile App"/>
 
 ## Overview
  
